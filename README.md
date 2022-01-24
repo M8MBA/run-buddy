@@ -8,7 +8,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-https://M8MBA.github.io/run-buddy/
+https://m8mba.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Cade Wilson
